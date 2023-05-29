@@ -61,7 +61,7 @@ modules:
     sources:
 
       - type: git
-        url: https://github.com/OpenSauce04/nook-desktop.git
+        url: https://github.com/OpenSauce04/nook-desktop-flatpak.git
         commit: bd167b53f8d39264b82e9283383e0c50e9f0c8d8
         dest: main
 
