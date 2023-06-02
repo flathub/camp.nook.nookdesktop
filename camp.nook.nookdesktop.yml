@@ -62,7 +62,7 @@ modules:
 
       - type: git
         url: https://github.com/OpenSauce04/nook-desktop.git
-        commit: bd167b53f8d39264b82e9283383e0c50e9f0c8d8
+        commit: 1dc6365768662e095fcb2e80666bf3d5836d5bf6
         dest: main
 
       - type: file
