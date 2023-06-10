@@ -37,12 +37,12 @@
 
     <release version="1.0.10-f1" date="2023-06-10">
       <description>
-        <p>- Fixed New Leaf 9am and 5pm loops
-        - Added Population Growing - Rainy Day, will always play the same tune
-        - Added label when minimized to tray to view the current tune's game and name
-        - Fixed total download file count
-        - Added Italian translations (thanks albanobattistella!)
-        - Minor bug fixes</p>
+        <p>- Fixed New Leaf 9am and 5pm loops</p>
+        <p>- Added Population Growing - Rainy Day, will always play the same tune</p>
+        <p>- Added label when minimized to tray to view the current tune's game and name</p>
+        <p>- Fixed total download file count</p>
+        <p>- Added Italian translations (thanks albanobattistella!)</p>
+        <p>- Minor bug fixes</p>
       </description>
     </release>
 
