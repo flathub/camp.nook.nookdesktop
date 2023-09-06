@@ -7,22 +7,14 @@
   <provides>
     <id>camp.nook.nookdesktop</id>
   </provides>
-  <summary>Nook is an application that plays Animal Crossing hourly themes on the hour.</summary>
+  <summary>Play Animal Crossing hourly themes on the hour</summary>
   <description>
-    <p>Nook used to be a browser extension, however with the changes bought in Chrome Manifest v3, it was decided that the browser extension was too difficult to maintain, and Nook was repurposed into a desktop app.</p>
-
-    <p>Features over the browser version include:</p>
+    <p>Hourly music from every Animal Crossing game and each season. Includes music from the Gamecube, Nintendo DS, Wii, Switch, and mobile games.</p>
+    <p>Listen to different kinds of rain sounds (in-game, thunderless, normal), population growing snowy and cherry blossom themes, New Horizons rainy and snowy themes, Pocket Camp themes, all K.K. Slider songs, and more:</p>
     <ul>
-      <li>New slick interface</li>
-      <li>New rain sounds (in-game, no-thunder)</li>
-      <li>Town tunes (and customization)</li>
-      <li>Multilingual support (English, Spanish, French, German, and Chinese)</li>
-      <li>Offline mode</li>
-      <li>Population growing snowy and cherry blossom themes</li>
-      <li>New horizons rainy and snowy themes</li>
-      <li>Pocket camp themes</li>
+      <li>Grandfather clock mode</li>
       <li>Random mode</li>
-      <li>All K.K. Slider songs</li>
+      <li>Multilingual support (English, Spanish, French, German, and Chinese)</li>
     </ul>
   </description>
   <url type="homepage">https://nook.camp</url>
@@ -37,18 +29,22 @@
 
     <release version="1.0.10-f1" date="2023-06-10">
       <description>
-        <p>- Fixed New Leaf 9am and 5pm loops</p>
-        <p>- Added Population Growing - Rainy Day, will always play the same tune</p>
-        <p>- Added label when minimized to tray to view the current tune's game and name</p>
-        <p>- Fixed total download file count</p>
-        <p>- Added Italian translations (thanks albanobattistella!)</p>
-        <p>- Minor bug fixes</p>
+        <ul>
+          <li>Fixed New Leaf 9am and 5pm loops</li>
+          <li>Added Population Growing - Rainy Day, will always play the same tune</li>
+          <li>Added label when minimized to tray to view the current tune's game and name</li>
+          <li>Fixed total download file count</li>
+          <li>Added Italian translations (thanks albanobattistella!)</li>
+          <li>Minor bug fixes</li>
+        </ul>
       </description>
     </release>
 
     <release version="1.0.9-f2" date="2023-06-05">
       <description>
-        <p>- When running on the Gnome desktop environment, the minimize to tray button is no longer visible</p>
+        <ul>
+          <li>When running on the GNOME desktop environment, the minimize to tray button is no longer visible</li>
+        </ul>
       </description>
     </release>
 
