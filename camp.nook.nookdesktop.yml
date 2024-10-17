@@ -1,12 +1,12 @@
 app-id: camp.nook.nookdesktop
 
 runtime: org.freedesktop.Platform
-runtime-version: '22.08'
+runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
 base: org.electronjs.Electron2.BaseApp
-base-version: '22.08'
+base-version: '24.08'
 sdk-extensions:
-  - org.freedesktop.Sdk.Extension.node18
+  - org.freedesktop.Sdk.Extension.node20
 
 command: run.sh
 separate-locales: false
@@ -21,7 +21,7 @@ finish-args:
   - --socket=pulseaudio
 
 build-options:
-  append-path: /usr/lib/sdk/node18/bin
+  append-path: /usr/lib/sdk/node20/bin
   env:
     NPM_CONFIG_LOGLEVEL: info
 
